@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Quel langage est principalement utilisé avec React ?",
+        "choices": ["Java", "C++", "JavaScript", "Python"],
+        "answer": "JavaScript",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel framework est basé sur Python ?",
+        "choices": ["Laravel", "Django", "Vue.js", "Spring"],
+        "answer": "Django",
+        "difficulty": "moyen"
+    },
+    {
+        "question": "Quel langage est utilisé pour créer des applications Android natives ?",
+        "choices": ["Swift", "Java", "C#", "Kotlin"],
+        "answer": "Kotlin",
+        "difficulty": "difficile"
+    },
+    {
+        "question": "Quel langage est utilisé pour rendre beau un site web",
+        "choices": ["c++", "java", "bash", "css"],
+        "answer": "css",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel est l'extension d'un fichier java",
+        "choices": [".dgango", ".java", ".bash", ".css"],
+        "answer": ".java",
+        "difficulty": "facile"
+    },
+    {
+        "question": "La partie de la page html où on peut directement intégrer du css",
+        "choices": ["<body>", "<head>", "<header>", "toutes les reponse sont bonnes"],
+        "answer": "toutes les reponse sont bonnes",
+        "difficulty": "facile"
+    },
+    {
+        "question": "Quel framework est utilisé pour développer des applications mobiles avec JavaScript ?",
+        "choices": ["Django", "Flutter", "React Native", "Laravel"],
+        "answer": "React Native"
+      },
+      {
+        "question": "Quel langage est le plus utilisé pour le backend web ?",
+        "choices": ["HTML", "CSS", "Python", "SQL"],
+        "answer": "Python",
+        "difficulty": "facile"
+
+      },
+      {
+        "question": "Quel framework JavaScript est principalement utilisé pour créer des interfaces utilisateur interactives ?",
+        "choices": ["Angular", "Vue.js", "React", "Tous les précédents"],
+        "answer": "Tous les précédents",
+        "difficulty": "facile"
+
+      },
+      {
+        "question": "Quel langage de programmation est principalement utilisé pour les bases de données relationnelles ?",
+        "choices": ["SQL", "C#", "Ruby", "Go"],
+        "answer": "SQL",
+        "difficulty": "facile"
+      },
+      {
+        "question": "Quel framework PHP est populaire pour le développement web ?",
+        "choices": ["Laravel", "Spring", "ASP.NET", "Express.js"],
+        "answer": "Laravel",
+        "difficulty": "facile"
+      },
+      {
+        "question": "Quel langage est utilisé pour le développement côté serveur en Node.js ?",
+        "choices": ["PHP", "Python", "JavaScript", "Ruby"],
+        "answer": "JavaScript",
+        "difficulty": "facile"
+      },
+      {
+        "question": "Quelle est la principale bibliothèque utilisée pour la gestion de l’état dans une application React ?",
+        "choices": ["Vuex", "Redux", "MobX", "Express"],
+        "answer": "Redux",
+        "difficulty": "facile"
+      }
+
+]
