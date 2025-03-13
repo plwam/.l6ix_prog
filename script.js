@@ -2,7 +2,7 @@ let questions = [];
 let indexQuestionActuelle = 0;
 let score = 0;
 let timer;
-const tempsParQuestion = 15; // Temps en secondes
+const tempsParQuestion = 20; // Temps en secondes
 
 // Charger les questions depuis questions.json
 fetch("questions.json")
